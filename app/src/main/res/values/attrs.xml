@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layout_alphaIn" format="float" />
+    <attr name="layout_alphaOut" format="float" />
+    <attr name="layout_xIn" format="float" />
+    <attr name="layout_xOut" format="float" />
+    <attr name="layout_yIn" format="float" />
+    <attr name="layout_yOut" format="float" />
+</resources>
